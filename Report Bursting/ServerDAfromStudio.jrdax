@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <jrsDataAdapter class="com.jaspersoft.jasperreports.data.jrs.JrsDataAdapterImpl">
-  <name>Server DA from Studio</name>
+  <name>Server DA from Studio 2</name>
   <serverUrl>http://localhost:8080/jasperserver-pro/</serverUrl>
   <username>superuser</username>
   <password>superuser</password>
